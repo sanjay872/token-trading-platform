@@ -35,8 +35,9 @@ Run the file
 ```bash
 npx ts-node ./src/index.ts
 ```
-Commit the changes and push it.
+Add changes, commit changes and push it.
 ```bash
+git add .
 git commit -m "base project"
 git push -u origin base-project
 ```

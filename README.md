@@ -3,6 +3,12 @@ Platform to trade tokens in web3 space. This is a system in which different toke
 
 # Steps
 
+# week 1
+
+Project Intro
+
+# week 2
+
 Starting New Project (create a new branch)
 ```bash
 git checkout -b base-project
@@ -46,3 +52,20 @@ Merge branch base-project and main
 git checkout main
 git merge base-project
 ```
+
+# week 3
+
+Session about Token ERC20.
+
+# week 4
+
+Session on intent, intent protocol, event listener.
+
+# week 5
+
+Read Across docs (https://docs.across.to/)
+    - Intent Lifecycle (https://docs.across.to/concepts/intent-lifecycle-in-across)
+    - Tracking Events (https://docs.across.to/reference/tracking-events)
+    - Repo (https://github.com/across-protocol/contracts)
+        - clone it
+        - run yarn to install all packages
